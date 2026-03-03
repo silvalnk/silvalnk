@@ -1,17 +1,53 @@
-Hi there, I'm Lucas Alves 👋
+# Hi there, I'm Lucas Alves 👋
 
-## About  
-I'm a Full-Stack Developer with a strong focus on backend development using **Golang** and **Ruby**. I specialize in building scalable, maintainable web applications and have experience with modern frontend frameworks.
+## 🚀 About Me
 
-## Current stack  
-⚡️ **Main languages:** Golang & Ruby  
-📡 **Backend:** Ruby on Rails, Golang  
-🎉 **Frontend:** React.js, Next.js  
-🧪 **Testing:** TDD, BDD  
-🏗️ **Architecture:** Clean Architecture, SOLID principles, Design Patterns  
-☁️ **Cloud:** AWS, GCP  
-📦 **Version control:** Git & GitHub  
+I'm a Backend-focused Software Engineer specialized in building high-performance, scalable, and maintainable systems using **Golang** and **Ruby**.
 
-## Contacts  
-📬 Email: web.m.lucasalves@outlook.com  
-👤 LinkedIn: https://www.linkedin.com/in/lucas4tech
+With strong experience in distributed systems, RESTful APIs, and clean architectural patterns, I design solutions that prioritize performance, scalability, and code quality.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- **Golang**
+- **Ruby**
+
+### 🧠 Backend Engineering
+- **Ruby on Rails**
+- **Golang (REST APIs, High-Performance Services)**
+- Microservices Architecture
+- Distributed Systems
+
+### 🎨 Frontend
+- **React.js**
+- **Angular**
+- **Next.js**
+
+### 🧪 Testing & Code Quality
+- **TDD (Test-Driven Development)**
+- **BDD (Behavior-Driven Development)**
+
+### 🏗 Architecture & Best Practices
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Domain-Driven Design (DDD)
+
+### ☁️ Cloud & DevOps
+- AWS
+- Google Cloud (GCP)
+- Docker
+- CI/CD Pipelines
+
+### 🔀 Version Control
+- Git
+- GitHub
+
+---
+
+## 📬 Contact
+
+- 📧 Email: web.m.lucasalves@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas4tech
