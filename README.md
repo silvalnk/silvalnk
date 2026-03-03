@@ -4,7 +4,7 @@ Hi there, I'm Lucas Alves 👋
 I'm a Full-Stack Developer with a strong focus on backend development using **Golang** and **Ruby**. I specialize in building scalable, maintainable web applications and have experience with modern frontend frameworks.
 
 ## Current stack  
-⚡️ **Main languages:** Golang | Ruby  
+⚡️ **Main languages:** Golang & Ruby  
 📡 **Backend:** Ruby on Rails, Golang  
 🎉 **Frontend:** React.js, Next.js  
 🧪 **Testing:** TDD, BDD  
