@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Backend-focused Software Engineer specialized in building high-performance, scalable, and maintainable systems using **Golang**, **Ruby**, and currently learning **Rust**.
+I'm a Backend-focused Software Engineer specialized in building high-performance, scalable, and maintainable systems using **Golang**, **Ruby**.
 
 With strong experience in distributed systems, RESTful APIs, and clean architectural patterns, I design solutions that prioritize performance, scalability, and code quality.
 
@@ -14,7 +14,6 @@ With strong experience in distributed systems, RESTful APIs, and clean architect
 
 * **Golang**
 * **Ruby**
-* **Rust (learning)**
 
 ### 🧠 Backend Engineering
 
