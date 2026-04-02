@@ -1,10 +1,17 @@
-# Hi there, I'm Lucas Alves 👋
+# 👋 Hi, I'm Lucas Alves
 
-## 🚀 About Me
+## 🚀 Backend Engineer | Golang • Elixir • Ruby
 
-I'm a Backend-focused Software Engineer specialized in building high-performance, scalable, and maintainable systems using **Golang**, **Ruby** and **Elixir**.
+Building **scalable**, **high-performance**, and **reliable systems**
 
-With strong experience in distributed systems, RESTful APIs, and clean architectural patterns, I design solutions that prioritize performance, scalability, and code quality.
+---
+
+## ⚡ About Me
+
+* 🔥 Backend-focused engineer with strong emphasis on **performance & scalability**
+* 🧠 Experienced in **Distributed Systems** and **Microservices Architecture**
+* 🏗 Advocate of **Clean Architecture**, **DDD**, **SOLID principles** and **Design Patterns**
+* 🚀 Passionate about building **robust and maintainable systems**
 
 ---
 
@@ -20,22 +27,22 @@ With strong experience in distributed systems, RESTful APIs, and clean architect
 
 * **Ruby on Rails**
 * **Phoenix**
-* **Golang (REST APIs, High-Performance Services)**
+* **REST APIs (Golang)**
 * Microservices Architecture
 * Distributed Systems
 
 ### 🎨 Frontend
 
-* **React.js**
-* **Angular**
-* **Next.js**
+* React.js
+* Angular
+* Next.js
 
-### 🧪 Testing & Code Quality
+### 🧪 Testing & Quality
 
-* **TDD (Test-Driven Development)**
-* **BDD (Behavior-Driven Development)**
+* TDD (Test-Driven Development)
+* BDD (Behavior-Driven Development)
 
-### 🏗 Architecture & Best Practices
+### 🏗 Architecture & Design
 
 * Clean Architecture
 * SOLID Principles
@@ -56,7 +63,15 @@ With strong experience in distributed systems, RESTful APIs, and clean architect
 
 ---
 
+## 📌 Highlights
+
+* ⚡ Focus on **low-latency and high-throughput systems**
+* 📦 Experience designing **scalable APIs and services**
+* 🧩 Strong understanding of **system design and architecture**
+
+---
+
 ## 📬 Contact
 
-* 📧 Email: [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/lucas4tech
+* 📧 [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
+* 💼 https://www.linkedin.com/in/lucas4tech
