@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Alves
 
-## 🚀 Backend Engineer | Golang • Elixir • Ruby
+## 🚀 Software Engineer | Golang • Elixir • Ruby
 
 Building **scalable**, **high-performance**, and **reliable systems**
 
