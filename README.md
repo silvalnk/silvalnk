@@ -34,7 +34,6 @@ Building **scalable**, **high-performance**, and **reliable systems**
 ### 🎨 Frontend
 
 * React.js
-* Angular
 * Next.js
 
 ### 🧪 Testing & Quality
