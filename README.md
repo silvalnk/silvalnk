@@ -2,16 +2,16 @@
 
 ## 🚀 Software Engineer | Golang • Ruby • Rust
 
-Building **scalable**, **high-performance**, and **reliable systems**
+I build **scalable**, **high-performance**, and **reliable systems** focused on real-world impact.
 
 ---
 
 ## ⚡ About Me
 
-* 🔥 Backend-focused engineer with strong emphasis on **performance & scalability**
-* 🧠 Experienced in **Distributed Systems** and **Microservices Architecture**
-* 🏗 Advocate of **Clean Architecture**, **DDD**, **SOLID principles** and **Design Patterns**
-* 🚀 Passionate about building **robust and maintainable systems**
+* 🔥 Backend Engineer specialized in **performance**, **scalability**, and **system reliability**
+* 🧠 Strong experience with **Distributed Systems** and **Microservices Architecture**
+* 🏗 Passionate about **Clean Architecture**, **DDD**, and **well-structured codebases**
+* 🚀 Focused on delivering **maintainable**, **efficient**, and **production-ready systems**
 
 ---
 
@@ -19,15 +19,14 @@ Building **scalable**, **high-performance**, and **reliable systems**
 
 ### 💻 Languages
 
-* **Golang**
-* **Ruby**
-* **Rust**
+* Golang
+* Ruby
+* Rust
 
-### 🧠 Backend Engineering
+### 🧠 Backend & Systems
 
-* **Ruby on Rails**
-* **REST APIs (Rust)**
-* **REST APIs (Golang)**
+* Ruby on Rails
+* REST APIs (Golang & Rust)
 * Microservices Architecture
 * Distributed Systems
 
@@ -64,9 +63,9 @@ Building **scalable**, **high-performance**, and **reliable systems**
 
 ## 📌 Highlights
 
-* ⚡ Focus on **low-latency and high-throughput systems**
-* 📦 Experience designing **scalable APIs and services**
-* 🧩 Strong understanding of **system design and architecture**
+* ⚡ Building **low-latency**, **high-throughput systems**
+* 📦 Designing **scalable APIs and distributed services**
+* 🧩 Strong foundation in **system design and backend architecture**
 
 ---
 
