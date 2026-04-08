@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Alves
 
-## 🚀 Software Engineer | Golang • Ruby • Rust
+## 🚀 Software Engineer | Golang • Rust • Ruby
 
 I build **scalable**, **high-performance**, and **reliable systems** focused on real-world impact.
 
@@ -20,13 +20,13 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 ### 💻 Languages
 
 * Golang
-* Ruby
 * Rust
+* Ruby
 
 ### 🧠 Backend & Systems
 
-* Ruby on Rails
 * REST APIs (Golang & Rust)
+* Ruby on Rails
 * Microservices Architecture
 * Distributed Systems
 
