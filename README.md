@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Alves
 
-## 🚀 Software Engineer | Golang • Ruby • Elixir
+## 🚀 Software Engineer | Golang • Ruby • Rust
 
 Building **scalable**, **high-performance**, and **reliable systems**
 
@@ -21,12 +21,12 @@ Building **scalable**, **high-performance**, and **reliable systems**
 
 * **Golang**
 * **Ruby**
-* **Elixir**
+* **Rust**
 
 ### 🧠 Backend Engineering
 
 * **Ruby on Rails**
-* **Phoenix**
+* **REST APIs (Rust)**
 * **REST APIs (Golang)**
 * Microservices Architecture
 * Distributed Systems
