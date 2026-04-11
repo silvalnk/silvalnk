@@ -21,8 +21,8 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 
 * Golang
 * Rust
-* Ruby
 * TypeScript 
+* Ruby
 
 ### 🧠 Backend & Systems
 
