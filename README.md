@@ -40,6 +40,7 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 
 * TDD (Test-Driven Development)
 * BDD (Behavior-Driven Development)
+* SDD (Spec-Driven Development)
 
 ### 🏗 Architecture & Design
 
