@@ -21,8 +21,8 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 
 * Golang
 * Rust
-* TypeScript 
 * Ruby
+* TypeScript 
 
 ### 🧠 Backend & Systems
 
@@ -47,6 +47,7 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 * SOLID Principles
 * Design Patterns
 * Domain-Driven Design (DDD)
+* CQRS (Command Query Responsibility Segregation)
 
 ### ☁️ Cloud & DevOps
 
