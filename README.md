@@ -56,6 +56,7 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 * AWS
 * Google Cloud (GCP)
 * Docker
+* Kubernetes
 * CI/CD Pipelines
 
 ### 🔀 Version Control
