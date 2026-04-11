@@ -49,6 +49,7 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 * Design Patterns
 * Domain-Driven Design (DDD)
 * CQRS (Command Query Responsibility Segregation)
+* Event-sourcing (ES)
 
 ### ☁️ Cloud & DevOps
 
