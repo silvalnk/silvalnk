@@ -77,4 +77,4 @@ I build **scalable**, **high-performance**, and **reliable systems** focused on 
 ## 📬 Contact
 
 * 📧 [E-mail](mailto:web.m.lucasalves@outlook.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/lucasalves4dev/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/silvalnk)
