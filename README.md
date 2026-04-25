@@ -2,79 +2,66 @@
 
 ## 🚀 Software Engineer | Golang • Rust • Ruby
 
-I build **scalable**, **high-performance**, and **reliable systems** focused on real-world impact.
+I design and build **high-performance**, **low-latency**, and **scalable distributed systems**.
 
 ---
 
 ## ⚡ About Me
 
-* 🔥 Backend Engineer specialized in **performance**, **scalability**, and **system reliability**
-* 🧠 Strong experience with **Distributed Systems** and **Microservices Architecture**
-* 🏗 Passionate about **Clean Architecture**, **DDD**, and **well-structured codebases**
-* 🚀 Focused on delivering **maintainable**, **efficient**, and **production-ready systems**
+- Backend-focused Software Engineer with 7+ years of experience  
+- Specialized in **Distributed Systems**, **Scalability**, and **Performance Engineering**  
+- Strong experience with **event-driven architectures** and **high-throughput systems**  
+- Focused on building **reliable**, **observable**, and **production-ready systems**  
+- Passionate about simplifying complexity through **clean and well-structured architectures**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
-* Golang
-* Rust
-* Ruby
-* TypeScript 
-
-### 🧠 Backend & Systems
-
-* REST APIs (Golang & Rust)
-* Ruby on Rails
-* Microservices Architecture
-* Distributed Systems
+### 💻 Backend
+Golang • Rust • Ruby (Ruby on Rails)
 
 ### 🎨 Frontend
+React.js • Next.js
 
-* React.js
-* Next.js
-
-### 🧪 Testing & Quality
-
-* TDD (Test-Driven Development)
-* BDD (Behavior-Driven Development)
-* SDD (Spec-Driven Development)
+### 🌐 APIs
+REST • GraphQL • gRPC
 
 ### 🏗 Architecture & Design
+Clean Architecture • Domain-Driven Design (DDD) • Design Patterns  
+Event Sourcing • CQRS
 
-* Clean Architecture
-* SOLID Principles
-* Design Patterns
-* Domain-Driven Design (DDD)
-* CQRS (Command Query Responsibility Segregation)
-* Event-sourcing (ES)
+### 🔗 Messaging & Streaming
+Apache Kafka • RabbitMQ
+
+### 🗄 Databases
+PostgreSQL • MySQL • MongoDB • Redis • Apache Cassandra
 
 ### ☁️ Cloud & DevOps
+AWS (Amazon Web Services) • GCP (Google Cloud Platform)  
+Docker • Kubernetes • CI/CD • Terraform • ArgoCD
 
-* AWS
-* Google Cloud (GCP)
-* Docker
-* Kubernetes
-* CI/CD Pipelines
+### 📊 Observability
+Metrics (Prometheus, Grafana)  
+Logs (ELK Stack, Elastic Beats, Loki)  
+Tracing (OpenTelemetry, Jaeger, Zipkin)
 
-### 🔀 Version Control
-
-* Git
-* GitHub
+### 🧪 Testing
+TDD • Jest • Vitest • Supertest • Testify • RSpec  
+Cypress • Playwright • Selenium • Rust (cargo test)
 
 ---
 
 ## 📌 Highlights
 
-* ⚡ Building **low-latency**, **high-throughput systems**
-* 📦 Designing **scalable APIs and distributed services**
-* 🧩 Strong foundation in **system design and backend architecture**
+- ⚡ Building **low-latency, high-throughput systems**
+- 🏗 Designing **scalable distributed architectures**
+- 🔄 Working with **event-driven and asynchronous systems**
+- 📈 Performance optimization and system reliability
 
 ---
 
-## 📬 Contact
+## 🌐 Connect with me
 
-* 📧 [E-mail](mailto:web.m.lucasalves@outlook.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/silvalnk)
+- 💼 LinkedIn: https://www.linkedin.com/in/silvalnk  
+- 📧 Email: web.m.lucasalves@outlook.com
