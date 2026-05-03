@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Alves
 
-## 🚀 Software Engineer | Golang • Rust • Ruby
+## 🚀 Software Engineer | Golang • Rust • TypeScript
 
 I design and build **high-performance**, **low-latency**, and **scalable distributed systems**.
 
@@ -19,7 +19,7 @@ I design and build **high-performance**, **low-latency**, and **scalable distrib
 ## 🛠 Tech Stack
 
 ### 💻 Backend
-Golang • Rust • Ruby (Ruby on Rails)
+Golang • Rust • TypeScript
 
 ### 🎨 Frontend
 React.js • Next.js
