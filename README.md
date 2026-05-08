@@ -45,7 +45,7 @@ Apache Kafka • RabbitMQ • AWS SQS • AWS SNS • Google Cloud Pub/Sub
 ---
 
 ### 🗄 Databases
-PostgreSQL • MySQL • MongoDB • Redis • Apache Cassandra • CockroachDB • ScyllaDB • DynamoDB
+PostgreSQL • MySQL • MongoDB • Redis • Apache Cassandra • CockroachDB • ScyllaDB • DynamoDB • Elasticsearch
 
 ---
 
