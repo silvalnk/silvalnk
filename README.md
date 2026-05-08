@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Alves
 
-## 🚀 Software Engineer | Golang • Rust • TypeScript
+## 🚀 Software Engineer | Golang • Rust
 
 I design and build **high-performance**, **low-latency**, and **scalable distributed systems**.
 
@@ -18,37 +18,47 @@ I design and build **high-performance**, **low-latency**, and **scalable distrib
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-Golang • Rust • TypeScript
+### ⚙️ Distributed Systems
+Golang • Rust
 
-### 🎨 Frontend
-React.js • Next.js
+---
 
 ### 🌐 APIs
 REST • GraphQL • gRPC
 
+---
+
 ### 🏗 Architecture & Design
-Clean Architecture • Domain-Driven Design (DDD) • Design Patterns  
+Clean Architecture • Domain-Driven Design (DDD) • Behavior-Driven Development (BDD) • Design Patterns  
 Event Sourcing • CQRS
 
+---
+
 ### 🔗 Messaging & Streaming
-Apache Kafka • RabbitMQ
+Apache Kafka • RabbitMQ • AWS SQS • AWS SNS • Google Cloud Pub/Sub
+
+---
 
 ### 🗄 Databases
-PostgreSQL • MySQL • MongoDB • Redis • Apache Cassandra
+PostgreSQL • MySQL • MongoDB • Redis • Apache Cassandra • CockroachDB • ScyllaDB • DynamoDB
+
+---
 
 ### ☁️ Cloud & DevOps
 AWS (Amazon Web Services) • GCP (Google Cloud Platform)  
 Docker • Kubernetes • CI/CD • Terraform • ArgoCD
+
+---
 
 ### 📊 Observability
 Metrics (Prometheus, Grafana)  
 Logs (ELK Stack, Elastic Beats, Loki)  
 Tracing (OpenTelemetry, Jaeger, Zipkin)
 
+---
+
 ### 🧪 Testing
-TDD • Jest • Vitest • Supertest • Testify • RSpec  
-Cypress • Playwright • Selenium • Rust (cargo test)
+TDD • BDD • Testify • Rust (cargo test)
 
 ---
 
