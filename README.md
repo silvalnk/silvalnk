@@ -24,13 +24,18 @@ Golang • Rust
 ---
 
 ### 🌐 APIs
-REST • GraphQL • gRPC
+REST • GraphQL • gRPC • WebSockets • Webhooks
 
 ---
 
 ### 🏗 Architecture & Design
 Clean Architecture • Domain-Driven Design (DDD) • Behavior-Driven Development (BDD) • Design Patterns  
 Event Sourcing • CQRS
+
+---
+
+### ⏰ Scheduling & Automation
+Google Cloud Scheduler • Cloud Tasks • Cron Jobs • AWS EventBridge Scheduler • Amazon EventBridge • AWS Lambda (Scheduled Events)
 
 ---
 
