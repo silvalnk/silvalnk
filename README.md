@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Alves
 
-## 🚀 Software Engineer | Go • Rust
+## 🚀 Software Engineer | Go • Rust • Zig
 
 I design and build **high-performance**, **low-latency**, and **scalable distributed systems**.
 
@@ -19,7 +19,7 @@ I design and build **high-performance**, **low-latency**, and **scalable distrib
 ## 🛠 Tech Stack
 
 ### ⚙️ Distributed Systems
-Go • Rust
+Go • Rust • Zig
 
 ---
 
